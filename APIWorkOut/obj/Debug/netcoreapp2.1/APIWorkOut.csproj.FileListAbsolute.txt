@@ -1,0 +1,14 @@
+F:\Ganapathi\My workout\APIWorkOut\APIWorkOut\bin\Debug\netcoreapp2.1\APIWorkOut.deps.json
+F:\Ganapathi\My workout\APIWorkOut\APIWorkOut\bin\Debug\netcoreapp2.1\APIWorkOut.runtimeconfig.json
+F:\Ganapathi\My workout\APIWorkOut\APIWorkOut\bin\Debug\netcoreapp2.1\APIWorkOut.runtimeconfig.dev.json
+F:\Ganapathi\My workout\APIWorkOut\APIWorkOut\bin\Debug\netcoreapp2.1\APIWorkOut.dll
+F:\Ganapathi\My workout\APIWorkOut\APIWorkOut\obj\Debug\netcoreapp2.1\APIWorkOut.csprojAssemblyReference.cache
+F:\Ganapathi\My workout\APIWorkOut\APIWorkOut\obj\Debug\netcoreapp2.1\APIWorkOut.csproj.CoreCompileInputs.cache
+F:\Ganapathi\My workout\APIWorkOut\APIWorkOut\obj\Debug\netcoreapp2.1\APIWorkOut.RazorAssemblyInfo.cache
+F:\Ganapathi\My workout\APIWorkOut\APIWorkOut\obj\Debug\netcoreapp2.1\APIWorkOut.RazorAssemblyInfo.cs
+F:\Ganapathi\My workout\APIWorkOut\APIWorkOut\obj\Debug\netcoreapp2.1\APIWorkOut.AssemblyInfoInputs.cache
+F:\Ganapathi\My workout\APIWorkOut\APIWorkOut\obj\Debug\netcoreapp2.1\APIWorkOut.AssemblyInfo.cs
+F:\Ganapathi\My workout\APIWorkOut\APIWorkOut\obj\Debug\netcoreapp2.1\APIWorkOut.RazorTargetAssemblyInfo.cache
+F:\Ganapathi\My workout\APIWorkOut\APIWorkOut\bin\Debug\netcoreapp2.1\APIWorkOut.pdb
+F:\Ganapathi\My workout\APIWorkOut\APIWorkOut\obj\Debug\netcoreapp2.1\APIWorkOut.dll
+F:\Ganapathi\My workout\APIWorkOut\APIWorkOut\obj\Debug\netcoreapp2.1\APIWorkOut.pdb
